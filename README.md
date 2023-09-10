@@ -2,7 +2,7 @@
 
 ## Sequence classification
 
-We use the transformer-encoder to classify between 3 artificial "languages" as either a sequence (of symbols) or a timeseries (of floating point numbers).
+We use the transformer-encoder to classify between 3 artificial "languages" as either a sequence (of symbols) or a timeseries (of floating point numbers). For more info, see this [README](./sequence_classification/README.md).
 
 ## Sequence generation
 
